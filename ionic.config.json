@@ -1,0 +1,8 @@
+{
+  "name": "HorarioFlex",
+  "app_id": "c6b0ff15",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
